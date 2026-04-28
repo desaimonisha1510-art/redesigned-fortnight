@@ -1,9 +1,10 @@
 body {
-    font-family: Arial;
-    text-align: center;
-    background-color: #f4f4f4;
+  font-family: Arial;
 }
 
-h1 {
-    color: blue;
+.product {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
 }
