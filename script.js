@@ -3,13 +3,13 @@ const products = [
     id: 1,
     name: "T-Shirt",
     price: 499,
-    image: "images/tshirt.jpg"
+    image: "images/tshirt.jpeg"
   },
   {
     id: 2,
     name: "Shoes",
     price: 1999,
-    image: "images/shoes.jpg"
+    image: "images/shoes.jpeg"
   }
 ];
 
